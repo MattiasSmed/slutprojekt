@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="174f26f6-e7e9-41c2-b3ae-0eb92978b495" name="FTP" url="http://ws7.surftown.com">
+        <fileTransfer host="ws7.surftown.com" port="21" password="dfdadfdfdfdedfcbdfe7dfcbdfcedfd8dfcfdf98df9a" username="hb724010367">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

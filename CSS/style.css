@@ -1,0 +1,347 @@
+@media screen and (min-width: 1201px) {
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background-color: #7595BA !important;
+}
+
+    /*****NAVIGATION*****/
+
+.navbar-inverse {
+    background-color: #454961  !important;
+    border: 2px solid #102F4F !important;
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding-bottom: 15px;
+}
+
+.navbar-fixed-top .navbar-brand #logo {
+    height: 245%;
+    width: 50%;
+}
+
+.navbar-nav > li {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+/*********FOOTER**********/
+
+footer {
+    width: 1000px;
+    margin: 2% auto;
+}
+
+footer .container {
+    float: left !important;
+}
+
+
+footer .container .row .col-md-8 .info {
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+    height: 225px;
+    background-color: white;
+}
+
+footer .container .row .col-md-8 .info img {
+    float:left;
+    width: 60px;
+    margin-right:10px;
+}
+
+footer .container .row .col-lg-3 img{
+    height: 33px;
+}
+
+
+/*History*/
+
+
+    .history_section {
+        /*#20193B*/
+        background-color: rgba(32, 25, 59, 0.5);
+        width: 1200px;
+        margin: auto;
+        padding-bottom: 10px;
+
+    }
+
+    .history_section article {
+        color: white;
+        margin: 10px 50px 10px 50px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .history_section article h1 {
+        font-size: 3em;
+        color: black;
+    }
+
+    .history_section article h2 {
+        color: black;
+    }
+
+    .history_section article p {
+        font-size: 1.5em;
+        line-height: 30px;
+    }
+
+}
+
+
+@media screen and (min-width:768px) and (max-width: 1200px){
+
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        background-color: #7595BA !important;
+    }
+
+    .navbar-inverse {
+        background-color: #454961  !important;
+        border: 1px solid #102F4F !important;
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding-bottom: 22px;
+        margin-bottom: 10px;
+    }
+
+    .navbar-brand {
+        padding: 0 0 !important;
+        margin-top: 7% !important;
+        /*padding-top: 10% !important;*/
+    }
+
+    .navbar-fixed-top .navbar-brand #logo {
+        height: 50px;
+    }
+
+    .navbar-nav > li {
+        border-left: 1px solid white;
+        border-right: 1px solid white;
+    }
+
+    .navbar-fixed-top .nav {
+        padding: 10px 0;
+    }
+
+
+
+    /*FOOTER*/
+    footer {
+        width: 50%;
+        margin: 2% auto;
+    }
+
+    footer .container {
+        float: left !important;
+    }
+
+    footer .container .row .col-md-8 {
+        width: 350px;
+    }
+
+    footer .container .row .col-md-8 .info img {
+        float:left;
+        width:150px;
+        height:150px;
+        margin-right:10px;
+    }
+
+    footer .container .row .col-md-8 .info {
+        border: 1px solid black;
+        padding: 10px 10px 10px 10px;
+        height: 200px;
+        background-color: white;
+    }
+
+    footer .container .row .col-lg-3 img{
+        height: 15px;
+    }
+
+
+    footer .container .row .col-lg-3 {
+        width: 140px;
+        max-height: 50px;
+        float: left;
+    }
+
+
+
+    /*History*/
+
+    .history_section {
+        /*#20193B*/
+        background-color: rgba(32, 25, 59, 0.5);
+        width: 750px;
+        margin: auto;
+        padding-bottom: 10px;
+
+    }
+
+    .history_section article {
+        color: white;
+        margin: 0 50px 10px 50px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .history_section article h1 {
+        font-size: 3em;
+        color: black;
+    }
+
+    .history_section article h2 {
+        color: black;
+    }
+
+    .history_section article p {
+        font-size: 1.5em;
+        line-height: 30px;
+    }
+
+
+}
+
+
+@media screen and (min-width: 350px) and (max-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        background-color: #7595BA !important;
+    }
+
+    .navbar-inverse {
+        background-color: #454961  !important;
+        border: 2px solid #102F4F !important;
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding-bottom: 22px;
+        margin-bottom: 10px;
+    }
+
+    .navbar-fixed-top .navbar-brand #logo {
+        height: 35px;
+    }
+
+    .navbar-nav > li {
+        border-left: 1px solid white;
+        border-right: 1px solid white;
+    }
+
+    .navbar-fixed-top .nav {
+        padding: 5px 0;
+    }
+
+    /*History*/
+
+    .history_section {
+        /*#20193B*/
+        background-color: rgba(32, 25, 59, 0.5);
+        width: 380px;
+        margin: auto;
+        padding-bottom: 10px;
+
+    }
+
+    .history_section article {
+        color: white;
+        margin: 0 50px 10px 50px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .history_section article h1 {
+        font-size: 3em;
+        color: black;
+    }
+
+    .history_section article h2 {
+        color: black;
+    }
+
+    .history_section article p {
+        font-size: 1.5em;
+        line-height: 30px;
+    }
+
+
+}
+
+@media screen and (max-width:350px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        background-color: #7595BA !important;
+    }
+
+    .navbar-inverse {
+        background-color: #454961  !important;
+        border: 2px solid #102F4F !important;
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding-bottom: 22px;
+        margin-bottom: 10px;
+    }
+
+    .navbar-fixed-top .navbar-brand #logo {
+        height: 30px;
+    }
+
+    .navbar-nav > li {
+        border-left: 1px solid white;
+        border-right: 1px solid white;
+    }
+
+    .navbar-fixed-top .nav {
+        padding: 5px 0;
+    }
+
+
+    /*History*/
+
+    .history_section {
+        /*#20193B*/
+        background-color: rgba(32, 25, 59, 0.5);
+        width: 300px;
+        margin: auto;
+        padding-bottom: 10px;
+
+    }
+
+    .history_section article {
+        color: white;
+        margin: 0 30px 10px 30px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .history_section article h1 {
+        font-size: 2em;
+        color: black;
+    }
+
+    .history_section article h2 {
+        color: black;
+    }
+
+    .history_section article p {
+        font-size: 1em;
+        line-height: 15px;
+    }
+
+
+
+}

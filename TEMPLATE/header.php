@@ -25,8 +25,19 @@
                 <li>
                     <a href="../PHP/survivors.php">Survivors</a>
                 </li>
-                <li>
-                    <a href="../PHP/passengers.php">Passengers</a>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Passengers <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="">Mr Olaus Jørgensen Abelseth</a>
+                        </li>
+                        <li>
+                            <a href="">Mr Augustus Henry Aldworth</a>
+                        </li>
+                        <li>
+                            <a href="">Miss Elisabeth Walton Allen</a>
+                        </li>
+                    </ul>
                 </li>
                 <li>
                     <a href="../PHP/generalinformation.php">General Information</a>

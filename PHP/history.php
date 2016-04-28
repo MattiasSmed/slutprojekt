@@ -15,7 +15,7 @@ include('../TEMPLATE/header.php');
 ?>
 
 
-<section class="history_section">
+<section class="common_section">
     <article>
         <h1>History</h1>
         <p>A century has sailed by since the luxury steamship RMS Titanic met its catastrophic end in the North

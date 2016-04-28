@@ -15,11 +15,9 @@
 include('../TEMPLATE/header.php');
 ?>
 
-
-<img src="../IMG/abelseth_oj_02_thm.jpg" alt="">
-<img src="../IMG/allen_ew_100.jpg" alt="">
-<img src="../IMG/allen_ew_100.jpg" alt="">
-
+<h1>
+    Mr Augustus Henry Aldworth
+</h1>
 
 <?php
 include('../TEMPLATE/footer.php');

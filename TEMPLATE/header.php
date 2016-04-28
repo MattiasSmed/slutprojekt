@@ -29,13 +29,13 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Passengers <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="">Mr Olaus Jørgensen Abelseth</a>
+                            <a href="../PHP/abselseth.php">Mr Olaus Jørgensen Abelseth</a>
                         </li>
                         <li>
-                            <a href="">Mr Augustus Henry Aldworth</a>
+                            <a href="../PHP/augustus.php">Mr Augustus Henry Aldworth</a>
                         </li>
                         <li>
-                            <a href="">Miss Elisabeth Walton Allen</a>
+                            <a href="../PHP/allen.php">Miss Elisabeth Walton Allen</a>
                         </li>
                     </ul>
                 </li>

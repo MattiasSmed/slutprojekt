@@ -18,6 +18,7 @@ include('../TEMPLATE/header.php');
 <h1>
     Mr Augustus Henry Aldworth
 </h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quae.</p>
 
 <?php
 include('../TEMPLATE/footer.php');

@@ -5,7 +5,7 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur assumenda consequatur dolore et fugit ipsa magni maxime, obcaecati, porro possimus quibusdam totam veniam. Consectetur dignissimos eius facilis maxime nesciunt qui quibusdam. Aliquam cumque eum magnam modi, nulla placeat unde vel vitae voluptates!.
         </p>
     </section>
-    <h1>test</h1>
+    
     <aside>
         <img src="../IMG/icons/css3_logo.svg" alt="CSS3">CSS3 verified
         <br>

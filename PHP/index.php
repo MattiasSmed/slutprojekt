@@ -15,7 +15,7 @@ include('../TEMPLATE/header.php');
 ?>
 
 
-
+<!-- TODO: ADD something -->
 
 <div class="container">
     <br>
@@ -35,15 +35,15 @@ include('../TEMPLATE/header.php');
             </div>
 
             <div class="item">
-                <img src="../IMG/slider_titanic_photo.png" alt="" width="800" height="400">
+                <img src="../IMG/abelseth_oj_02_thm.jpg" alt="" width="800" height="400">
             </div>
 
             <div class="item">
-                <img src="../IMG/slider_titanic_photo.png" alt="" width="800" height="400">
+                <img src="../IMG/allen_ew_100.jpg" alt="" width="800" height="400">
             </div>
 
             <div class="item">
-                <img src="../IMG/slider_titanic_photo.png" alt="" width="800" height="400">
+                <img src="../IMG/magnus.jpeg" alt="" width="800" height="400">
             </div>
         </div>
 

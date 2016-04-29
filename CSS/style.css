@@ -10,7 +10,25 @@
         border: 2px solid #102F4F !important;
     }
 
-    .navbar-fixed-top .nav {
+ .carousel-control.left, .carousel-control.right {
+     background-image: none !important;
+ }
+
+ .carousel-control.right {
+     left: 75% !important;
+ }
+
+ .carousel-inner .item img {
+     width: auto;
+     height: 400px !important;
+     max-height: 400px;
+ }
+
+ .carousel-control.left {
+     left: 10% !important;
+ }
+
+ .navbar-fixed-top .nav {
         padding: 15px 0;
     }
 
@@ -20,7 +38,7 @@
 
     .navbar-fixed-top .navbar-brand #logo {
         height: 245%;
-        width: 50%;
+        width: 100%;
     }
 
     .navbar-nav > li {

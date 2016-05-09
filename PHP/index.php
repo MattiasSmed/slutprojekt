@@ -16,6 +16,16 @@ include('../TEMPLATE/header.php');
 
 
 <!-- TODO: ADD something -->
+<section class="index_section">
+    <article>
+        <p>
+            Titanic bla bla bla : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, pariatur?
+            Titanic bla bla bla : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, pariatur?
+            Titanic bla bla bla : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, pariatur?
+        </p>
+    </article>
+</section>
+
 
 <div class="container">
     <br>

@@ -14,7 +14,7 @@
      background-image: none !important;
  }
 
- 
+
  .carousel-control.right {
      left: 75% !important;
  }
@@ -53,6 +53,30 @@
         margin: auto;
     }
 
+
+    /*INDEX*/
+
+ .index_section {
+     /*#20193B*/
+     background-color: rgba(32, 25, 59, 0.5);
+     width: 80%;
+     margin: auto;
+     margin-top: 3%;
+     padding-bottom: 5px;
+     padding-top: 5px;
+ }
+
+ .index_section article {
+     color: white;
+     margin: 10px 50px 10px 50px;
+     position: relative;
+     overflow: hidden;
+ }
+
+ .index_section article p {
+     font-size: 1.5em;
+     line-height: 30px;
+ }
 
     /******FOOTER******/
 
@@ -101,7 +125,7 @@
     .common_section {
         /*#20193B*/
         background-color: rgba(32, 25, 59, 0.5);
-        width: 1200px;
+        width: 80%;
         margin: auto;
         padding-bottom: 10px;
 
@@ -139,10 +163,10 @@
 
 @media screen and (min-width:992px) and (max-width: 1200px){
 
-    body {
-        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-        background-color: #7595BA !important;
-    }
+    /*body {*/
+        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
+        /*background-color: #7595BA !important;*/
+    /*}*/
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -157,11 +181,11 @@
     .navbar-brand {
         padding: 0 0 !important;
         margin-top: 7% !important;
-        /*padding-top: 10% !important;*/
+        padding-top: 10% !important;
     }
 
     .navbar-fixed-top .navbar-brand #logo {
-        height: 50px;
+        height: 37px;
     }
 
     .navbar-nav > li {
@@ -180,52 +204,16 @@
         margin: auto;
     }
 
-    /*History*/
+    /*!*History*!*/
 
-    .common_section {
-        /*#20193B*/
-        background-color: rgba(32, 25, 59, 0.5);
-        width: 750px;
-        margin: auto;
-        padding-bottom: 10px;
-
-    }
-
-    .common_section article {
-        color: white;
-        margin: 0 50px 10px 50px;
-        position: relative;
-        overflow: hidden;
-    }
-
-    .common_section article h1 {
-        font-size: 3em;
-        color: black;
-    }
-
-    .common_section article h2 {
-        color: black;
-    }
-
-    .common_section article p {
-        font-size: 1.5em;
-        line-height: 30px;
-    }
-
-    
-    /*FOOTER*/
-    
-    footer section img {
-        display: none;
-    }
 
 }
 
 @media screen and (min-width:768px) and (max-width: 992px) {
-    body {
-        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-        background-color: #7595BA !important;
-    }
+    /*body {*/
+        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
+        /*background-color: #7595BA !important;*/
+    /*}*/
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -244,7 +232,7 @@
     }
 
     .navbar-fixed-top .navbar-brand #logo {
-        height: 50px;
+        height: 46px;
     }
 
     .navbar-nav > li {
@@ -263,45 +251,15 @@
         margin: auto;
     }
 
-    /*History*/
-
-    .common_section {
-        /*#20193B*/
-        background-color: rgba(32, 25, 59, 0.5);
-        width: 750px;
-        margin: auto;
-        padding-bottom: 10px;
-
-    }
-
-    .common_section article {
-        color: white;
-        margin: 0 50px 10px 50px;
-        position: relative;
-        overflow: hidden;
-    }
-
-    .common_section article h1 {
-        font-size: 3em;
-        color: black;
-    }
-
-    .common_section article h2 {
-        color: black;
-    }
-
-    .common_section article p {
-        font-size: 1.5em;
-        line-height: 30px;
-    }
+    /*!*History*!*/
 
 }
 
 @media screen and (min-width: 350px) and (max-width:768px) {
-    body {
-        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-        background-color: #7595BA !important;
-    }
+    /*body {*/
+        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
+        /*background-color: #7595BA !important;*/
+    /*}*/
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -332,46 +290,16 @@
         margin: auto;
     }
 
-    /*History*/
-
-    .common_section {
-        /*#20193B*/
-        background-color: rgba(32, 25, 59, 0.5);
-        width: 380px;
-        margin: auto;
-        padding-bottom: 10px;
-
-    }
-
-    .common_section article {
-        color: white;
-        margin: 0 50px 10px 50px;
-        position: relative;
-        overflow: hidden;
-    }
-
-    .common_section article h1 {
-        font-size: 3em;
-        color: black;
-    }
-
-    .common_section article h2 {
-        color: black;
-    }
-
-    .common_section article p {
-        font-size: 1.5em;
-        line-height: 30px;
-    }
+    /*!*History*!*/
 
 
 }
 
 @media screen and (max-width:350px) {
-    body {
-        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-        background-color: #7595BA !important;
-    }
+    /*body {*/
+        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
+        /*background-color: #7595BA !important;*/
+    /*}*/
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -403,37 +331,7 @@
         margin: auto;
     }
 
-    /*History*/
+    /*!*History*!*/
 
-    .common_section {
-        /*#20193B*/
-        background-color: rgba(32, 25, 59, 0.5);
-        width: 300px;
-        margin: auto;
-        padding-bottom: 10px;
-
-    }
-
-    .common_section article {
-        color: white;
-        margin: 0 30px 10px 30px;
-        position: relative;
-        overflow: hidden;
-    }
-
-    .common_section article h1 {
-        font-size: 2em;
-        color: black;
-    }
-
-    .common_section article h2 {
-        color: black;
-    }
-
-    .common_section article p {
-        font-size: 1em;
-        line-height: 15px;
-    }
-
-    /*FOOTER*/
+    /*!*FOOTER*!*/
 }

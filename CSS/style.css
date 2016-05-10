@@ -163,10 +163,10 @@
 
 @media screen and (min-width:992px) and (max-width: 1200px){
 
-    /*body {*/
-        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
-        /*background-color: #7595BA !important;*/
-    /*}*/
+    body {
+        padding-top: 100px;
+        background-color: #7595BA !important;
+    }
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -210,10 +210,10 @@
 }
 
 @media screen and (min-width:768px) and (max-width: 992px) {
-    /*body {*/
-        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
-        /*background-color: #7595BA !important;*/
-    /*}*/
+    body {
+        padding-top: 100px;
+        background-color: #7595BA !important;
+    }
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -256,10 +256,10 @@
 }
 
 @media screen and (min-width: 350px) and (max-width:768px) {
-    /*body {*/
-        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
-        /*background-color: #7595BA !important;*/
-    /*}*/
+    body {
+        padding-top: 100px;
+        background-color: #7595BA !important;
+    }
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -296,10 +296,10 @@
 }
 
 @media screen and (max-width:350px) {
-    /*body {*/
-        /*padding-top: 100px; !* Required padding for .navbar-fixed-top. Change if height of navigation changes. *!*/
-        /*background-color: #7595BA !important;*/
-    /*}*/
+    body {
+        padding-top: 100px;
+        background-color: #7595BA !important;
+    }
 
     .navbar-inverse {
         background-color: #454961  !important;
@@ -333,5 +333,18 @@
 
     /*!*History*!*/
 
+    .common_section article p {
+        font-size: 1em;
+        line-height: 20px;
+    }
+
+    .common_section article {
+        color: white;
+        margin: 5px 10px 5px 10px;
+        position: relative;
+        overflow: hidden;
+    }
+
     /*!*FOOTER*!*/
 }
+

@@ -35,15 +35,21 @@
                             <a href="../PHP/augustus.php">Mr Augustus Henry Aldworth</a>
                         </li>
                         <li>
-                            <a href="../PHP/allen.php">Miss Elisabeth Walton Allen</a>
+                            <a href="../PHP/miss_allen.php">Miss Elisabeth Walton Allen</a>
                         </li>
                     </ul>
                 </li>
-                <li>
-                    <a href="../PHP/generalinformation.php">General Information</a>
-                </li>
-                <li>
-                    <a href="../PHP/crew.php">Crew</a>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                       aria-expanded="false">Crew <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="../PHP/allen.php">Mr Henry Allen</a>
+                        </li>
+                        <li>
+                            <a href="../PHP/anderson.php">Mr James Anderson</a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </div>

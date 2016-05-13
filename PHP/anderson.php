@@ -30,9 +30,9 @@ include('../TEMPLATE/header.php');
             escaped from a mental asylum.</p>
         <blockquote>
             <p class="p-crew-quote">South Wales Daily News</p>
-            <p class="p-crew-quote-black"><b>Escape from Whitchurch</b></p>
+            <p class="p-crew-quote-white"><b>Escape from Whitchurch</b></p>
             <p class="p-crew-quote">29th June 1914</p>
-            <p class="p-crew-quote-black"><b>Search for Patient who was in The Titanic</b></p>
+            <p class="p-crew-quote-white"><b>Search for Patient who was in The Titanic</b></p>
             <p class="p-crew-quote">The authorities of the City of Cardiff Mental Hospital have been much perturbed
                 since Thursday by the escape of one of the patients from that institution.</p>
             <p class="p-crew-quote">John Anderson, a man of the seafaring class, of medium build, and about 40 years

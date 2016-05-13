@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="../CSS/style.css">
 
 <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="../CSS/normalize.css">
 <link rel="stylesheet" href="../BOOTSTRAP/css/bootstrap.min.css">
 
 <!-- jQuery library -->

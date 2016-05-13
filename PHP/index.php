@@ -9,7 +9,7 @@
 
 </head>
 <body>
-
+<div class="pagecontainer">
 <?php
 include('../TEMPLATE/header.php');
 ?>
@@ -74,6 +74,6 @@ include('../TEMPLATE/header.php');
 <?php
 include('../TEMPLATE/footer.php');
 ?>
-
+</div>
 </body>
 </html>
